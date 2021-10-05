@@ -11,7 +11,7 @@ alex.sani.bacho@gmail.com
 *English - C1*  
 *Python - Professional*  
 *Bash - Professional*  
-*C/Cpp - basic*  
+*C/Cpp - basic*
 
 ## Tech stack
 
@@ -25,8 +25,9 @@ alex.sani.bacho@gmail.com
 *Projects included a Chatbot API and Invoice reading and processing automation.*  
 
 `2018 - 2020`
-**Backend Programmer — Seznam, Brno**
-*Mostly Python programming for Seznams CDN team. Tasks included: Video/Audio Encoding, Encryption, Storage, Image Recognition etc.*  
+**Backend Programmer — Seznam, Brno**  
+*Mostly Python programming for Seznams CDN team.*  
+*Projects included Video/Audio Encoding, Encryption, Storage, Image Recognition etc.*
 
 ### Education
 
